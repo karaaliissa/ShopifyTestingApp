@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "baseHref": "/ShopifyFront/",
+            "baseHref": "/ShopifyTestingApp/",
             "outputPath": "dist/shopify-testing",
             "index": "src/index.html",
             "browser": "src/main.ts",
